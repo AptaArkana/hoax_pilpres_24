@@ -1,4 +1,4 @@
-# Klasifikasi Hoax Pilpres 2024 (Judul Berita)
+# Klasifikasi Hoax Pilpres 2024
 <p align='justify'>Projek klasifikasi hoax Pilpres merupakan upaya untuk mengembangkan sistem yang dapat mengidentifikasi dan membedakan informasi yang bersifat palsu atau hoaks terkait pemilihan presiden (Pilpres). Tujuan dari proyek ini adalah untuk meningkatkan pemahaman masyarakat tentang kebenaran informasi selama periode pemilihan presiden, sehingga dapat mengurangi penyebaran berita palsu yang dapat memengaruhi opini publik dan proses demokrasi. Metode klasifikasi yang digunakan dalam proyek ini mencakup penggunaan teknik pembelajaran mesin dan analisis data untuk membedakan antara informasi yang dapat dipercaya dan yang tidak. Proyek ini diharapkan dapat memberikan kontribusi positif terhadap integritas dan keamanan proses demokrasi dalam konteks pemilihan presiden.</p>
 
 ## Dataset 
