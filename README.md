@@ -16,6 +16,6 @@ Contoh : <b>IDI: Kematian Petugas KPPS PEMILU 2019 Bukan Karena Kelelahan tapi K
 
 ## EDA Berita Fakta
 <img style="display:flex; width:50%; height:auto;" alt="Word Cloud Berita Fakta" src="https://github.com/AptaArkana/hoax_pilpres_24/assets/79633073/88422550-573f-42af-9757-ab92801e0d21">
-<img style="display:flex; width:50%; height:auto;" alt="Word Frequency Berita Fakta" src="https://github.com/AptaArkana/hoax_pilpres_24/assets/79633073/09a45679-0252-4d04-8c57-8c06e938176d">
+<img style="width:50%; height:auto;" alt="Word Frequency Berita Fakta" src="https://github.com/AptaArkana/hoax_pilpres_24/assets/79633073/09a45679-0252-4d04-8c57-8c06e938176d">
 
 
