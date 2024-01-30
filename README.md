@@ -15,12 +15,10 @@
 Contoh : <b>IDI: Kematian Petugas KPPS PEMILU 2019 Bukan Karena Kelelahan tapi Karena DIRACUN</b>
 
 ## EDA Berita Fakta
-<img style="display:flex; width:50%; height:auto;" alt="Word Cloud Berita Fakta" src="https://github.com/AptaArkana/hoax_pilpres_24/assets/79633073/dfe3c51c-6bda-452e-a1fc-6f97021627d6">
-<img style="width:50%; height:auto;" alt="Word Frequency Berita Fakta" src="https://github.com/AptaArkana/hoax_pilpres_24/assets/79633073/09a45679-0252-4d04-8c57-8c06e938176d">
+<img style="display:flex; width:auto; height:auto;" alt="Word Cloud Berita Fakta" src="https://github.com/AptaArkana/hoax_pilpres_24/assets/79633073/dfe3c51c-6bda-452e-a1fc-6f97021627d6">
 <p align='justify'>Meskipun mendekati akhir masa jabatannya, <b>Jokowi</b> tetap menjadi topik yang sering dibicarakan, menunjukkan keberlanjutan perhatian publik terhadap kepemimpinannya. Di antara calon-calon potensial untuk periode berikutnya, <b>Anies</b>, <b>Prabowo</b>, dan <b>Ganjar</b> juga muncul sebagai tokoh yang banyak diperbincangkan, mengindikasikan minat dan spekulasi terkait pemilihan presiden mendatang.</p>
 
 ## EDA Berita Hoax
-<img style="display:flex; width:50%; height:auto;" alt="Word Cloud Berita Fakta" src="https://github.com/AptaArkana/hoax_pilpres_24/assets/79633073/44bd7c4c-3132-48cb-94de-c3ec2e9115e0">
-<img style="width:50%; height:auto;" alt="Word Frequency Berita Fakta" src="https://github.com/AptaArkana/hoax_pilpres_24/assets/79633073/b6d6d295-c52a-4fda-9348-c66c432ce382">
+<img style="display:flex; width:auto; height:auto;" alt="Word Cloud Berita Fakta" src="https://github.com/AptaArkana/hoax_pilpres_24/assets/79633073/44bd7c4c-3132-48cb-94de-c3ec2e9115e0">
 <p align='justify'>Berdasarkan data, dapat diidentifikasi bahwa subjek utama dalam konteks berita hoax lebih sering membicarakan <b>Jokowi</b> dan <b>Anies</b>. Selain itu, objek hoax yang banyak dibicarakan terutama terfokus pada <b>foto</b> dan <b>video</b>. Hal ini menunjukkan adanya tren di mana berita palsu atau hoax sering kali memanfaatkan materi visual, seperti foto dan video, untuk menciptakan naratif yang dapat mempengaruhi opini publik.</p>
 
