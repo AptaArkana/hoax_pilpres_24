@@ -22,3 +22,11 @@ Contoh : <b>IDI: Kematian Petugas KPPS PEMILU 2019 Bukan Karena Kelelahan tapi K
 <img style="display:flex; width:auto; height:auto;" alt="Word Cloud Berita Fakta" src="https://github.com/AptaArkana/hoax_pilpres_24/assets/79633073/44bd7c4c-3132-48cb-94de-c3ec2e9115e0">
 <p align='justify'>Berdasarkan data, dapat diidentifikasi bahwa subjek utama dalam konteks berita hoax lebih sering membicarakan <b>Jokowi</b> dan <b>Anies</b>. Selain itu, objek hoax yang banyak dibicarakan terutama terfokus pada <b>foto</b> dan <b>video</b>. Hal ini menunjukkan adanya tren di mana berita palsu atau hoax sering kali memanfaatkan materi visual, seperti foto dan video, untuk menciptakan naratif yang dapat mempengaruhi opini publik.</p>
 
+## Evaluasi
+<img style="display:flex; width:auto; height:auto;" alt="Word Cloud Berita Fakta" src="https://github.com/AptaArkana/hoax_pilpres_24/assets/79633073/d1122244-6528-4719-b093-b906f437b1dd">
+<p align='justify'>Dalam lima epoch pertama pelatihan model, terlihat adanya perbaikan kinerja yang signifikan. Pada epoch pertama, model mencapai tingkat akurasi sebesar 93.68%, dengan nilai presisi, recall, dan F1 masing-masing sekitar 97.24%, 88.94%, dan 92.90%. Kinerja ini terus meningkat pada epoch-epoch berikutnya, mencapai akurasi tertinggi pada epoch keempat dengan nilai 95.87%. Meskipun terjadi kenaikan validation loss pada epoch ketiga, model tetap mampu mempertahankan tingkat akurasi yang tinggi. Dapat disimpulkan bahwa model ini secara keseluruhan telah berhasil mengatasi overfitting, mengingat terdapat penurunan validation loss pada epoch yang berikutnya. Nilai-nilai presisi, recall, dan F1 yang stabil dan tinggi menunjukkan bahwa model ini memiliki keseimbangan yang baik antara kemampuan untuk mengidentifikasi kelas positif dan negatif. Sebagai tambahan, proses pelatihan model ini juga terlihat sangat efisien, dengan nilai training loss yang menurun secara signifikan dari epoch ke epoch, mencapai nilai terendah pada epoch kelima.</p>
+
+## Link Hugging Face
+Link model bisa diakses <a href="https://huggingface.co/AptaArkana/hoaxpemilu">disini</a>
+
+
